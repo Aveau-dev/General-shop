@@ -7,7 +7,7 @@
 
 > A modern, fully responsive HTML template for local stores and small businesses. Ready to download, customize, and deploy in minutes.
 
-[🌐 Live Demo](https://aveau-dev.github.io/General_shop/)
+[🌐 Live Demo](https://aveau-dev.github.io/General-shop/)
 ---
 
 ## 📸 Preview
